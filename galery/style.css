@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px 0 0 0;
+    background-image: url(./img/maxresdefault\ \(1\).png);
+    background-size: 100%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 20px 0;
+    gap: 20px;
+}
+img {
+    border: solid 2px orange;
+    border-radius: 10px;
+}
